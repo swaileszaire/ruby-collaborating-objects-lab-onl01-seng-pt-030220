@@ -1,1 +1,1 @@
-require 
+require /lib/artist.rb 
